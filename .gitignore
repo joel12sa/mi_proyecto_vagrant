@@ -1,0 +1,8 @@
+# Ignorar todas las cajas
+*.box
+
+# Excepciones: permite subir ciertas cajas específicas
+!caja_especifica.box
+
+# Ignorar la carpeta de configuración de Vagrant
+.vagrant/
